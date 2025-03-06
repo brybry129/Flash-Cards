@@ -10,7 +10,7 @@ Flash Cards is a program built in Python using TKinter and Pandas to help learn 
  - Choose which side of the card shows first
  - Choose the time to flip the card
 
-## Install
+## Dependencies
 ```
 pip install tk
 pip install pandas
